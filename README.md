@@ -2,4 +2,4 @@
 Collection of Coding Challenges
 
 - Sherlock Maze
-  - Find the number of all possible paths from Sherlocks Starting Node (n, m) to the Destination Node (n, m) where the amount of turns must be <= the max number of turns allowed (k).
+  - Find the number of all possible paths from Sherlocks Starting Node (n, m) to the Destination Node (n, m) where the number of turns must be <= k.
